@@ -1,1 +1,5 @@
 Terminal practice day 2
+ROS 2 is a robotics framework
+Python is used in ROS 2 nodes
+Gazebo is a simulation tool
+Nav2 is the navigation stack
