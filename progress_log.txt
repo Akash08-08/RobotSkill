@@ -1,0 +1,5 @@
+2026-05-13 | Day 1 | terminal, homebrew, git, vscode setup
+2026-05-13 | Day 2 | terminal fluency, grep and find
+2026-05-13 | Day 3 | bash scripts, variables and if statements
+2026-05-13 | Day 4 | loops, while loops and functions
+2026-05-13 | Day 5 | week 1 mini project - progress tracker

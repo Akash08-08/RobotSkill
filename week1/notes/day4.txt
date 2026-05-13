@@ -1,5 +1,6 @@
 Day 4 - 2026-05-12
 What I learned today:
-1. 
-2. 
-3. 
+1. for loop
+2. while loop
+3. functions
+
