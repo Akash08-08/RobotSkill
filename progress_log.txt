@@ -3,3 +3,5 @@
 2026-05-13 | Day 3 | bash scripts, variables and if statements
 2026-05-13 | Day 4 | loops, while loops and functions
 2026-05-13 | Day 5 | week 1 mini project - progress tracker
+2026-05-19 | Day 6 | starting week 2 - docker and ROS 2
+2026-05-19 | Day 6 | installed Docker, pulled ROS 2 Humble, ran talker-listener
